@@ -35,3 +35,7 @@ The database is created step by step using the following SQL scripts:
 ## Purpose
 
 This project was created as a database design and SQL practice project to simulate a real-world cargo tracking system.
+
+## Database ER Diagram
+
+![CargoDB ER Diagram](er_diagram.png)
